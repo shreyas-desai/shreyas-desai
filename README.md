@@ -1,6 +1,7 @@
 # Shreyas Desai
 
-👋 Hey there! I'm Shreyas Desai, a passionate Software Developer and Data Engineer currently pursuing my Master's in Computer Science at Stevens Institute of Technology. You can find more about my journey on my [portfolio](https://shreyas-desai.github.io).
+Namaste!🙏 </br>
+I'm Shreyas Desai, Software Developer and Data Engineer by profession and Machine Learning Engineer at the core, currently pursuing my Master's in Computer Science at Stevens Institute of Technology. You can find more about my journey on my [portfolio](https://shreyas-desai.github.io).
 
 ## Education
 - **Master's in Computer Science,** Stevens Institute of Technology *(Sep '23 - May '25)*
@@ -14,7 +15,7 @@
 - Integrated data between PostgreSQL and Salesforce.
 - Utilized Salesforce Bulk Data API and AWS S3 Bucket for data transfer.
 
-### Data Engineering Intern at SessionAI *(Aug '22 - Feb '23)*
+### Machine Learning / Data Engineering Intern at SessionAI *(Aug '22 - Feb '23)*
 - Provided recommendations based on user session activity using LSTM models.
 - Managed data manipulation and feature extraction.
 - Trained ML regression models and deployed them on MLFlow.
@@ -35,6 +36,9 @@
 
 ### Natural Language Processing with Disaster Tweets (Kaggle)
 - Trained models using distilBERT and achieved high f1-scores.
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 ## Skills
 - **Programming Languages:** Python, Java, SQL, C++
