@@ -41,11 +41,11 @@ I'm Shreyas Desai, Software Developer and Data Engineer by profession and Machin
 
 
 ## Skills
-- **Programming Languages:** Python, Java, SQL, C++
+- **Programming Languages:** [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/), Java, SQL, C++
 - **Software Proficiency:** VS Code, Eclipse IDE, WSL, PyCharm, Anaconda
 - **Data Analysis:** Power BI, MatPlotLIB, Statistical Analysis, EDA
 - **Decision Sciences:** Quantitative Analysis, Decision Trees, Predictive Modeling
 - **Backend Frameworks:** FastAPI, Flask, Django, SpringBoot
 - **Serverless Technologies:** AWS Lambda, GCP Functions
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-desai/) or check out my [![jhc github](https://img.shields.io/badge/GitHub-shreyas-desai-181717.svg?style=flat&logo=github)](https://github.com/shreyas-desai/) for more cool projects! Let's code and explore together! 🚀
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-desai/) or check out my [Github](https://github.com/shreyas-desai/) for more cool projects! Let's code and explore together! 🚀
