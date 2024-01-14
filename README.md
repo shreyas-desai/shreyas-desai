@@ -37,11 +37,11 @@ I'm Shreyas Desai, Software Developer and Data Engineer by profession and Machin
 ### Natural Language Processing with Disaster Tweets (Kaggle)
 - Trained models using distilBERT and achieved high f1-scores.
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 
 ## Skills
-- **Programming Languages:** [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/), Java, SQL, C++
+- **Programming Languages:** [![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/), Java, SQL, C++
 - **Software Proficiency:** VS Code, Eclipse IDE, WSL, PyCharm, Anaconda
 - **Data Analysis:** Power BI, MatPlotLIB, Statistical Analysis, EDA
 - **Decision Sciences:** Quantitative Analysis, Decision Trees, Predictive Modeling
