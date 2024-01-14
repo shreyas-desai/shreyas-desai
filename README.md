@@ -41,7 +41,7 @@ I'm Shreyas Desai, Software Developer and Data Engineer by profession and Machin
 
 
 ## Skills
-- **Programming Languages:** [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/), [![Java](https://img.shields.io/badge/java-blue.svg)], SQL, C++
+- **Programming Languages:** Python, java, SQL, C++
 - **Software Proficiency:** VS Code, Eclipse IDE, WSL, PyCharm, Anaconda
 - **Data Analysis:** Power BI, MatPlotLIB, Statistical Analysis, EDA
 - **Decision Sciences:** Quantitative Analysis, Decision Trees, Predictive Modeling
