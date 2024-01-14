@@ -1,4 +1,4 @@
-# Namaste !🙏</br> call me shreyas
+# Namaste !🙏</br> call me shreyas.
 
 Welcome to my coding space! 🚀 I'm on a mission to explore the wonders of GANs and Transformers. Currently, I'm cruising through my Master's in Computer Science at Stevens Institute of Technology.
 
