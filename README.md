@@ -48,4 +48,4 @@ I'm Shreyas Desai, Software Developer and Data Engineer by profession and Machin
 - **Backend Frameworks:** FastAPI, Flask, Django, SpringBoot
 - **Serverless Technologies:** AWS Lambda, GCP Functions
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-desai/) or check out my [![jhc github](https://img.shields.io/badge/GitHub-jhrcook-181717.svg?style=flat&logo=github)](https://github.com/jhrcook)(https://github.com/shreyas-desai/) for more cool projects! Let's code and explore together! 🚀
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-desai/) or check out my [![jhc github](https://img.shields.io/badge/GitHub-shreyas-desai-181717.svg?style=flat&logo=github)](https://github.com/shreyas-desai/) for more cool projects! Let's code and explore together! 🚀
