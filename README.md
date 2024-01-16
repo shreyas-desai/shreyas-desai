@@ -17,7 +17,7 @@ Welcome to my coding space! 🚀 I'm on a mission to explore the wonders of GANs
 - Spent my days crafting FastAPIs, dancing with Java APIs, and orchestrating data ballets between PostgreSQL and Salesforce.
 - Also, got cozy with Salesforce Bulk Data API and AWS S3 Bucket for some serious data moves.
 
-#### Data Engineering Intern @ SessionAI *(Aug '22 - Feb '23)*
+#### Machine Learning/Data Engineering Intern @ SessionAI *(Aug '22 - Feb '23)*
 - Unleashed the power of LSTM models to provide personalized recommendations.
 - Juggled data manipulation, ML regression models, and a bit of statistical sorcery.
 
