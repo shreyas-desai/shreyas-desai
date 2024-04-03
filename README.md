@@ -7,7 +7,7 @@ Welcome to my coding space! 🚀 I'm on a mission to explore the wonders of GANs
 ## About Me
 
 - 🎓 **Education:** Master's in Computer Science at Stevens Institute of Technology *(Sep '23 - May '25)*
-- 🌍 **Location:** Exploring the world of tech from wherever the code takes me!
+- 🌍 **Location:** Exploring the world of tech from wherever the code takes me! (Formally speaking, USA :D)
 
 ## What I've Been Up To
 
