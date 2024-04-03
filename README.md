@@ -19,7 +19,7 @@ Welcome to my coding space! 🚀 I'm on a mission to explore the wonders of GANs
 
 #### Machine Learning/Data Engineering Intern @ SessionAI *(Aug '22 - Feb '23)*
 - Unleashed the power of LSTM models to provide personalized recommendations.
-- Juggled data manipulation, ML regression models, and a bit of statistical sorcery.
+- Played a pivotal role in crafting a transformer-based model, deciphering customer sentiment on deliveries within defined time frames, developed ML regression models and did a bit of statistical sorcery.
 
 ### 🛠️ Projects
 
